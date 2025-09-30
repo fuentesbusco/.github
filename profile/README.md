@@ -8,6 +8,10 @@ _crafted code, human experience_
 ![Availability](https://img.shields.io/badge/Open%20to-Consulting%20%26%20Advisory-2EA043?style=flat&logo=github)
 ![Work Mode](https://img.shields.io/badge/Remote-Worldwide-8A2BE2?style=flat&logo=globe)
 
+[![Follow @fuentesbusco](https://img.shields.io/github/followers/fuentesbusco?label=Follow%20%40fuentesbusco&style=social)](https://github.com/fuentesbusco)
+[![Org: Atelier-Busco](https://img.shields.io/badge/Org-Atelier--Busco-181717?style=flat&logo=github&logoColor=white)](https://github.com/Atelier-Busco)
+[![Org: VJSoftwareLab](https://img.shields.io/badge/Org-VJSoftwareLab-181717?style=flat&logo=github&logoColor=white)](https://github.com/VJSoftwareLab)
+
 ---
 
 I’m a senior software engineer and solutions architect leading **Atelier Busco**, a boutique studio crafting bespoke digital products for brands and professionals who value precision, elegance, and intentional design.  
@@ -102,7 +106,7 @@ I work end-to-end—from strategy and UX to architecture, backend, frontend, and
 
 - **Spanish:** Native (mother tongue)
 - **English:** C2 Proficient — EF SET 73/100 (Jun 2024); TOEIC — CORFO (Mar 2007)
-- **Italian:** Professional working proficiency (B1)
+- **Italian:** Intermediate (B1)
 
 ## 📣 Teaching
 
@@ -124,6 +128,7 @@ Custom development • System/API integration • MVP/SaaS acceleration • Tech
 
 **Website:** https://atelierbusco.com  
 **Email:** daniel@atelierbusco.com  
+**GitHub:** [@fuentesbusco](https://github.com/fuentesbusco) · Orgs: [@Atelier‑Busco](https://github.com/Atelier-Busco) · [@VJSoftwareLab](https://github.com/VJSoftwareLab)  
 **Languages:** ES · EN · IT
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-ff496a?style=flat) ![Code Style](https://img.shields.io/badge/Code%20Style-Opinionated-111827?style=flat) ![Approach](https://img.shields.io/badge/Approach-Boutique%20Studio-0ea5e9?style=flat)
