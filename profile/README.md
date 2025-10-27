@@ -20,10 +20,10 @@ I architect and build scalable SaaS products from end-to-end. My methodology foc
 
 ## 🚀 How I Help (My Methodology)
 
--   **1. Discovery Workshop (Strategy):** A 2-week sprint to de-risk your project. We define the business problem, user flow, and technical architecture *before* writing the first line of code.
--   **2. Scalable MVP (SaaS in 90 Days):** I build your product's v1.0. This is not a throwaway prototype; it's your business's foundation, ready to scale.
--   **3. AI Ecosystem (Orchestration):** I don't just integrate AI, I orchestrate it. I implement our `Prompt Engine API` and `Memory Service` to build AI that learns, is secure, and is governable.
--   **4. Software Architecture (Full-Stack):** End-to-end development, from microservice APIs (NestJS) and cloud infrastructure (AWS) to mobile apps (Flutter) and web dashboards (Angular).
+-   **Discovery Workshop (Strategy):** A 2-week sprint to de-risk your project. We define the business problem, user flow, and technical architecture *before* writing the first line of code.
+-   **Scalable MVP (SaaS in 90 Days):** I build your product's v1.0. This is not a throwaway prototype; it's your business's foundation, ready to scale.
+-   **AI Ecosystem (Orchestration):** I don't just integrate AI, I orchestrate it. I implement our `Prompt Engine API` and `Memory Service` to build AI that learns, is secure, and is governable.
+-   **Software Architecture (Full-Stack):** End-to-end development, from microservice APIs (NestJS) and cloud infrastructure (AWS) to mobile apps (Flutter) and web dashboards (Angular).
 
 ## 🧰 Core Tech Stack
 
@@ -69,41 +69,41 @@ I am available for:
 -   AWS Cloud Solutions Architect — Amazon Web Services (May 2025)
 -   AWS Cloud Technology Consultant — Amazon Web Services (May 2025)
 -   AWS Fundamentals — Amazon Web Services (May 2025)  
-    _Competencies:_ Software architecture, data analysis, cloud computing, big data, problem solving, AWS.
+-   _Competencies:_ Software architecture, data analysis, cloud computing, big data, problem solving, AWS.
 
 ### Artificial Intelligence & Productivity
 
 -   Google AI Essentials Specialization — Google (May 2025)
 -   ChatGPT Fundamentals — Santander Open Academy (May 2025)
--   Google: AI and Productivity — Google (May 2025)  
-    _Competencies:_ Artificial intelligence, LLMs, prompt design, data analysis.
+-   Google: AI and Productivity — Google (May 2025)
+-   _Competencies:_ Artificial intelligence, LLMs, prompt design, data analysis.
 
 ### Cybersecurity
 
--   Google Cybersecurity Professional Certificate — Google (May 2025)  
-    _Competencies:_ Information security, vulnerability management, incident response, SecOps, cloud security, OWASP.
+-   Google Cybersecurity Professional Certificate — Google (May 2025)
+-   _Competencies:_ Information security, vulnerability management, incident response, SecOps, cloud security, OWASP.
 
 ### Management & Business
 
 -   Path to Excellence in Project Management — Pontificia Universidad Católica de Chile (May 2025)
 -   Technology Management Course — Platzi (Jul 2023)
 -   Scrum Foundations Professional Certificate (SFPC) — CertiProf (Jul 2018)
--   Understanding the Customer in the Era of Big Data — University of Chile  
-    _Competencies:_ Leadership, project management, organizational culture, strategy, agility.
+-   Understanding the Customer in the Era of Big Data — University of Chile
+-   _Competencies:_ Leadership, project management, organizational culture, strategy, agility.
 
 ### Software Development
 
 -   React JS + Redux + ES6 — Udemy (Jan 2021)
 -   React Native — Udemy (Jan 2021)
--   Software Applications Developer Analyst — .NET — SFIA Foundation (Dec 2017; expired Dec 2020)  
-    _Competencies:_ Frontend development, mobile apps, .NET.
+-   Software Applications Developer Analyst — .NET — SFIA Foundation (Dec 2017; expired Dec 2020)
+-   _Competencies:_ Frontend development, mobile apps, .NET.
 
 ### Wellbeing & Personal Development
 
 -   Mindfulness & Work‑Life Balance — Santander Open Academy (May 2025)
 -   Fatherhood Support — Crianza en Flor (Sept 2021)
--   Sleep, Breastfeeding and Parenting Twins, Triplets & Multiples — Centro Ser Mujer (date TBD)  
-    _Competencies:_ Wellbeing, mindfulness, parenting, fatherhood.
+-   Sleep, Breastfeeding and Parenting Twins, Triplets & Multiples — Centro Ser Mujer (date TBD)
+-   _Competencies:_ Wellbeing, mindfulness, parenting, fatherhood.
 
 ### Other Courses
 
