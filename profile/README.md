@@ -126,7 +126,7 @@ I am available for:
 
 ## 📫 Contact
 
-**Website:** https://atelierbusco.com  
-**Email:** daniel@atelierbusco.com  
-**GitHub:** [@fuentesbusco](https://github.com/fuentesbusco) · Orgs: [@Atelier-Busco](https://github.com/Atelier-Busco) · [@VJSoftwareLab](https://github.com/VJSoftwareLab)  
-**Languages:** ES · EN · IT
+-   **Website:** https://atelierbusco.com  
+-   **Email:** daniel@atelierbusco.com  
+-   **GitHub:** [@fuentesbusco](https://github.com/fuentesbusco) · Orgs: [@Atelier-Busco](https://github.com/Atelier-Busco) · [@VJSoftwareLab](https://github.com/VJSoftwareLab)  
+-   **Languages:** ES · EN · IT
